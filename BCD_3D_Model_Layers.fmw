@@ -33,8 +33,8 @@
 #!   END_TCL=""
 #!   EXPLICIT_BOOKMARK_ORDER="false"
 #!   FME_BUILD_NUM="19246"
-#!   FME_DOCUMENT_GUID="69f8f4ba-a6bb-4c05-98c8-c909f72cb1c1"
-#!   FME_DOCUMENT_PRIORGUID="5e1e7fe4-e052-4c7e-92dd-97a8bbb040c5,402714c7-3816-4d6b-a0a3-a5114b0839e7,0784489b-d876-4127-a0e5-899193e5207d,38ecc705-2918-4bde-bd8d-8d991061841a,85a73dc3-5c99-4a0f-b908-20ceb97d3e34,0fa44916-16b3-4171-9545-860ad752c0b2,9a943e03-9994-4f26-9905-9bb30c99357f,2d46e28e-3423-40f1-a8df-4aa4d7fc5129,4eec5791-df1b-4b46-a7ce-a817575cdefe,cebbaffa-65d9-4e22-ac61-1d6388546883,84bc1dec-01ab-4e44-b5c7-85e649a9e470,d98ba295-9155-4670-a048-c3ad17078412,a61063a3-602c-4fe5-907f-af40a6ef41b6,11f2ad50-abb3-43a8-9389-112de0250515,f72d728d-72e6-4d8e-aa04-8d792d90f035,938a9f83-1a11-48c7-8a53-d42c580014a7,c6e828a6-cc9a-4f75-b13a-b2a373b7d2b3,f4c8b647-96d9-4148-804b-e455c665c72d,e122985a-d9c7-4c50-aae4-f4fc918785c8,3414b4aa-f641-4561-afcf-6df2eeb09469,eafff331-8300-4ea9-98b6-71ae1483c21c,f44e2020-562e-494d-bfc6-c5428180a1b0,b47dc050-df2c-43fd-bd36-13f3c26518bc,143a66fb-6909-4d52-a0f9-4d8e7304228a,ef59b485-3b4a-42c3-968e-31babe35e79d,3c6bbb52-3dce-463e-bd45-f889116eb5f8,26a0c2f1-f6af-4d54-9b9a-5306344c7e3b,12ca2f11-d59b-4754-b1b6-11c38010f4c5,26f49978-925e-422b-813b-d0cbfbb04a7f,d494cbd6-3937-4a94-89bf-6291301c5c49,33cbfbe6-f50a-42c1-bbcf-3b98e039bad6,b709473d-5eb5-495f-846f-bcaf81557ef4,00552393-36ca-4b65-8971-b4d41888dc50,d4f1fa69-f5dc-49a5-b977-3964b1562ab7,434ae508-9380-46ca-9b48-f70a3fb28292,1d99b28f-c9ff-41d0-a272-1864023dc7fa,4d935cb9-aeeb-4ec9-a938-afb765a65df7,d133b758-3cc9-4a22-a4d7-bd75ef1d7b1d,8a911b45-5e05-4b88-957c-4936907db77e,12948254-badb-4464-add4-3dd045b72337,7603776f-a28d-4a18-bf0a-440172e84efe,48ad23d5-745c-4e5d-8cce-92619d8a611e,68a7023d-aab9-40e5-a54e-630650a0f3f3,c3324d65-36a3-4c44-b06f-2922b90aceb7,9831bd09-a54e-4d8c-aea7-8974939d3b68,99068ee2-e850-4339-b6dc-d509def2b117"
+#!   FME_DOCUMENT_GUID="975488fe-1fc7-40d6-b6f3-8901a34c78ef"
+#!   FME_DOCUMENT_PRIORGUID="5e1e7fe4-e052-4c7e-92dd-97a8bbb040c5,402714c7-3816-4d6b-a0a3-a5114b0839e7,0784489b-d876-4127-a0e5-899193e5207d,38ecc705-2918-4bde-bd8d-8d991061841a,85a73dc3-5c99-4a0f-b908-20ceb97d3e34,0fa44916-16b3-4171-9545-860ad752c0b2,9a943e03-9994-4f26-9905-9bb30c99357f,2d46e28e-3423-40f1-a8df-4aa4d7fc5129,4eec5791-df1b-4b46-a7ce-a817575cdefe,cebbaffa-65d9-4e22-ac61-1d6388546883,84bc1dec-01ab-4e44-b5c7-85e649a9e470,d98ba295-9155-4670-a048-c3ad17078412,a61063a3-602c-4fe5-907f-af40a6ef41b6,11f2ad50-abb3-43a8-9389-112de0250515,f72d728d-72e6-4d8e-aa04-8d792d90f035,938a9f83-1a11-48c7-8a53-d42c580014a7,c6e828a6-cc9a-4f75-b13a-b2a373b7d2b3,f4c8b647-96d9-4148-804b-e455c665c72d,e122985a-d9c7-4c50-aae4-f4fc918785c8,3414b4aa-f641-4561-afcf-6df2eeb09469,eafff331-8300-4ea9-98b6-71ae1483c21c,f44e2020-562e-494d-bfc6-c5428180a1b0,b47dc050-df2c-43fd-bd36-13f3c26518bc,143a66fb-6909-4d52-a0f9-4d8e7304228a,ef59b485-3b4a-42c3-968e-31babe35e79d,3c6bbb52-3dce-463e-bd45-f889116eb5f8,26a0c2f1-f6af-4d54-9b9a-5306344c7e3b,12ca2f11-d59b-4754-b1b6-11c38010f4c5,26f49978-925e-422b-813b-d0cbfbb04a7f,d494cbd6-3937-4a94-89bf-6291301c5c49,33cbfbe6-f50a-42c1-bbcf-3b98e039bad6,b709473d-5eb5-495f-846f-bcaf81557ef4,00552393-36ca-4b65-8971-b4d41888dc50,d4f1fa69-f5dc-49a5-b977-3964b1562ab7,434ae508-9380-46ca-9b48-f70a3fb28292,1d99b28f-c9ff-41d0-a272-1864023dc7fa,4d935cb9-aeeb-4ec9-a938-afb765a65df7,d133b758-3cc9-4a22-a4d7-bd75ef1d7b1d,8a911b45-5e05-4b88-957c-4936907db77e,12948254-badb-4464-add4-3dd045b72337,7603776f-a28d-4a18-bf0a-440172e84efe,48ad23d5-745c-4e5d-8cce-92619d8a611e,68a7023d-aab9-40e5-a54e-630650a0f3f3,c3324d65-36a3-4c44-b06f-2922b90aceb7,9831bd09-a54e-4d8c-aea7-8974939d3b68,99068ee2-e850-4339-b6dc-d509def2b117,69f8f4ba-a6bb-4c05-98c8-c909f72cb1c1,e4f9bac7-25ad-4d1f-8271-ad500ab12fa5"
 #!   FME_GEOMETRY_HANDLING="Enhanced"
 #!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
 #!   FME_REPROJECTION_ENGINE="FME"
@@ -43,7 +43,7 @@
 #!   HISTORY=""
 #!   IGNORE_READER_FAILURE="No"
 #!   LAST_SAVE_BUILD="FME(R) 2019.0.0.1 (20190415 - Build 19246 - WIN64)"
-#!   LAST_SAVE_DATE="2019-06-24T17:34:49"
+#!   LAST_SAVE_DATE="2019-07-16T11:58:34"
 #!   LOG_FILE=""
 #!   LOG_MAX_RECORDED_FEATURES="200"
 #!   MARKDOWN_DESCRIPTION=""
@@ -62,10 +62,10 @@
 #!   TITLE=""
 #!   USAGE=""
 #!   USE_MARKDOWN=""
-#!   VIEW_POSITION="-2875.03 -4454.21"
+#!   VIEW_POSITION="-4093.79 -5843.81"
 #!   WARN_INVALID_XFORM_PARAM="Yes"
 #!   WORKSPACE_VERSION="1"
-#!   ZOOM_SCALE="60"
+#!   ZOOM_SCALE="40"
 #! >
 #! <DATASETS>
 #! <DATASET
@@ -81,7 +81,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="SHAPE_GEOMETRY {FME_GEN_GEOMETRY}"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_text_string char(50) SHAPE_GEOMETRY char(50) multi_reader_full_id long fme_rotation double fme_start_angle double multi_reader_id long fme_geometry char(50) fme_dataset char(50) fme_color char(50) fme_secondary_axis double shape_geometry_error{} char(254) fme_text_size double fme_feature_type char(50) fme_basename char(50) fme_sweep_angle double multi_reader_keyword char(50) multi_reader_type char(50) fme_primary_axis double shape_measures char(254) fme_type char(50) fme_fill_color char(50)"
+#!   EXPOSABLE_ATTRS="shape_measures char(254) fme_primary_axis double fme_start_angle double multi_reader_type char(50) shape_geometry_error{} char(254) multi_reader_full_id long fme_text_size double multi_reader_keyword char(50) fme_secondary_axis double fme_color char(50) fme_rotation double SHAPE_GEOMETRY char(50) fme_text_string char(50) fme_sweep_angle double fme_feature_type char(50) fme_fill_color char(50) multi_reader_id long fme_geometry char(50) fme_dataset char(50) fme_basename char(50) fme_type char(50)"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES="Indexed"
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -139,7 +139,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE=""
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_text_string string csv_total_number_of_columns uint32 multi_reader_full_id string fme_rotation string fme_start_angle string multi_reader_id string fme_geometry string fme_dataset string csv_number_of_fields uint32 fme_color string fme_secondary_axis string fme_text_size string csv_type string fme_feature_type string csv_skipped_line string fme_basename string fme_sweep_angle string multi_reader_keyword string multi_reader_type string csv_line_number uint64 fme_primary_axis string fme_type string fme_fill_color string"
+#!   EXPOSABLE_ATTRS="csv_total_number_of_columns uint32 fme_primary_axis string csv_skipped_line string fme_start_angle string multi_reader_type string csv_line_number uint64 multi_reader_full_id string fme_text_size string csv_number_of_fields uint32 multi_reader_keyword string fme_secondary_axis string fme_color string fme_rotation string fme_text_string string fme_sweep_angle string fme_feature_type string fme_fill_color string multi_reader_id string fme_geometry string fme_dataset string csv_type string fme_basename string fme_type string"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -197,7 +197,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="SHAPE_GEOMETRY {FME_GEN_GEOMETRY}"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_text_string char(50) SHAPE_GEOMETRY char(50) multi_reader_full_id long fme_rotation double fme_start_angle double multi_reader_id long fme_geometry char(50) fme_dataset char(50) fme_color char(50) fme_secondary_axis double shape_geometry_error{} char(254) fme_text_size double fme_feature_type char(50) fme_basename char(50) fme_sweep_angle double multi_reader_keyword char(50) multi_reader_type char(50) fme_primary_axis double shape_measures char(254) fme_type char(50) fme_fill_color char(50)"
+#!   EXPOSABLE_ATTRS="shape_measures char(254) fme_primary_axis double fme_start_angle double multi_reader_type char(50) shape_geometry_error{} char(254) multi_reader_full_id long fme_text_size double multi_reader_keyword char(50) fme_secondary_axis double fme_color char(50) fme_rotation double SHAPE_GEOMETRY char(50) fme_text_string char(50) fme_sweep_angle double fme_feature_type char(50) fme_fill_color char(50) multi_reader_id long fme_geometry char(50) fme_dataset char(50) fme_basename char(50) fme_type char(50)"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES="Indexed"
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -255,7 +255,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="SHAPE_GEOMETRY {FME_GEN_GEOMETRY}"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_text_string char(50) SHAPE_GEOMETRY char(50) multi_reader_full_id long fme_rotation double fme_start_angle double multi_reader_id long fme_geometry char(50) fme_dataset char(50) fme_color char(50) fme_secondary_axis double shape_geometry_error{} char(254) fme_text_size double fme_feature_type char(50) fme_basename char(50) fme_sweep_angle double multi_reader_keyword char(50) multi_reader_type char(50) fme_primary_axis double shape_measures char(254) fme_type char(50) fme_fill_color char(50)"
+#!   EXPOSABLE_ATTRS="shape_measures char(254) fme_primary_axis double fme_start_angle double multi_reader_type char(50) shape_geometry_error{} char(254) multi_reader_full_id long fme_text_size double multi_reader_keyword char(50) fme_secondary_axis double fme_color char(50) fme_rotation double SHAPE_GEOMETRY char(50) fme_text_string char(50) fme_sweep_angle double fme_feature_type char(50) fme_fill_color char(50) multi_reader_id long fme_geometry char(50) fme_dataset char(50) fme_basename char(50) fme_type char(50)"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES="Indexed"
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -313,7 +313,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="SHAPE_GEOMETRY {FME_GEN_GEOMETRY}"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_text_string char(50) SHAPE_GEOMETRY char(50) multi_reader_full_id long fme_rotation double fme_start_angle double multi_reader_id long fme_geometry char(50) fme_dataset char(50) fme_color char(50) fme_secondary_axis double shape_geometry_error{} char(254) fme_text_size double fme_feature_type char(50) fme_basename char(50) fme_sweep_angle double multi_reader_keyword char(50) multi_reader_type char(50) fme_primary_axis double shape_measures char(254) fme_type char(50) fme_fill_color char(50)"
+#!   EXPOSABLE_ATTRS="shape_measures char(254) fme_primary_axis double fme_start_angle double multi_reader_type char(50) shape_geometry_error{} char(254) multi_reader_full_id long fme_text_size double multi_reader_keyword char(50) fme_secondary_axis double fme_color char(50) fme_rotation double SHAPE_GEOMETRY char(50) fme_text_string char(50) fme_sweep_angle double fme_feature_type char(50) fme_fill_color char(50) multi_reader_id long fme_geometry char(50) fme_dataset char(50) fme_basename char(50) fme_type char(50)"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES="Indexed"
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -371,7 +371,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE=""
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_text_string string csv_total_number_of_columns uint32 multi_reader_full_id string fme_rotation string fme_start_angle string multi_reader_id string fme_geometry string fme_dataset string csv_number_of_fields uint32 fme_color string fme_secondary_axis string fme_text_size string csv_type string fme_feature_type string csv_skipped_line string fme_basename string fme_sweep_angle string multi_reader_keyword string multi_reader_type string csv_line_number uint64 fme_primary_axis string fme_type string fme_fill_color string"
+#!   EXPOSABLE_ATTRS="csv_total_number_of_columns uint32 fme_primary_axis string csv_skipped_line string fme_start_angle string multi_reader_type string csv_line_number uint64 multi_reader_full_id string fme_text_size string csv_number_of_fields uint32 multi_reader_keyword string fme_secondary_axis string fme_color string fme_rotation string fme_text_string string fme_sweep_angle string fme_feature_type string fme_fill_color string multi_reader_id string fme_geometry string fme_dataset string csv_type string fme_basename string fme_type string"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -429,7 +429,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE=""
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_text_string string csv_total_number_of_columns uint32 multi_reader_full_id string fme_rotation string fme_start_angle string multi_reader_id string fme_geometry string fme_dataset string csv_number_of_fields uint32 fme_color string fme_secondary_axis string fme_text_size string csv_type string fme_feature_type string csv_skipped_line string fme_basename string fme_sweep_angle string multi_reader_keyword string multi_reader_type string csv_line_number uint64 fme_primary_axis string fme_type string fme_fill_color string"
+#!   EXPOSABLE_ATTRS="csv_total_number_of_columns uint32 fme_primary_axis string csv_skipped_line string fme_start_angle string multi_reader_type string csv_line_number uint64 multi_reader_full_id string fme_text_size string csv_number_of_fields uint32 multi_reader_keyword string fme_secondary_axis string fme_color string fme_rotation string fme_text_string string fme_sweep_angle string fme_feature_type string fme_fill_color string multi_reader_id string fme_geometry string fme_dataset string csv_type string fme_basename string fme_type string"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -487,7 +487,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="SHAPE_GEOMETRY {FME_GEN_GEOMETRY}"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_text_string char(50) SHAPE_GEOMETRY char(50) multi_reader_full_id long fme_rotation double fme_start_angle double multi_reader_id long fme_geometry char(50) fme_dataset char(50) fme_color char(50) fme_secondary_axis double shape_geometry_error{} char(254) fme_text_size double fme_feature_type char(50) fme_basename char(50) fme_sweep_angle double multi_reader_keyword char(50) multi_reader_type char(50) fme_primary_axis double shape_measures char(254) fme_type char(50) fme_fill_color char(50)"
+#!   EXPOSABLE_ATTRS="shape_measures char(254) fme_primary_axis double fme_start_angle double multi_reader_type char(50) shape_geometry_error{} char(254) multi_reader_full_id long fme_text_size double multi_reader_keyword char(50) fme_secondary_axis double fme_color char(50) fme_rotation double SHAPE_GEOMETRY char(50) fme_text_string char(50) fme_sweep_angle double fme_feature_type char(50) fme_fill_color char(50) multi_reader_id long fme_geometry char(50) fme_dataset char(50) fme_basename char(50) fme_type char(50)"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES="Indexed"
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -545,7 +545,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="SHAPE_GEOMETRY {FME_GEN_GEOMETRY}"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_text_string char(50) SHAPE_GEOMETRY char(50) multi_reader_full_id long fme_rotation double fme_start_angle double multi_reader_id long fme_geometry char(50) fme_dataset char(50) fme_color char(50) fme_secondary_axis double shape_geometry_error{} char(254) fme_text_size double fme_feature_type char(50) fme_basename char(50) fme_sweep_angle double multi_reader_keyword char(50) multi_reader_type char(50) fme_primary_axis double shape_measures char(254) fme_type char(50) fme_fill_color char(50)"
+#!   EXPOSABLE_ATTRS="shape_measures char(254) fme_primary_axis double fme_start_angle double multi_reader_type char(50) shape_geometry_error{} char(254) multi_reader_full_id long fme_text_size double multi_reader_keyword char(50) fme_secondary_axis double fme_color char(50) fme_rotation double SHAPE_GEOMETRY char(50) fme_text_string char(50) fme_sweep_angle double fme_feature_type char(50) fme_fill_color char(50) multi_reader_id long fme_geometry char(50) fme_dataset char(50) fme_basename char(50) fme_type char(50)"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES="Indexed"
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -603,7 +603,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE=""
 #!   DEFLINE_ATTRS="false"
-#!   EXPOSABLE_ATTRS="fme_text_string string multi_reader_full_id string fme_rotation string fme_start_angle string multi_reader_id string fme_geometry string fme_dataset string fme_color string fme_secondary_axis string fme_text_size string fme_feature_type string fme_basename string fme_sweep_angle string multi_reader_keyword string multi_reader_type string fme_primary_axis string obj_type string fme_type string fme_fill_color string"
+#!   EXPOSABLE_ATTRS="fme_primary_axis string fme_start_angle string multi_reader_type string multi_reader_full_id string fme_text_size string multi_reader_keyword string fme_secondary_axis string fme_color string fme_rotation string fme_text_string string fme_sweep_angle string fme_feature_type string obj_type string fme_fill_color string multi_reader_id string fme_geometry string fme_dataset string fme_basename string fme_type string"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -657,7 +657,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE=""
 #!   DEFLINE_ATTRS="false"
-#!   EXPOSABLE_ATTRS="fme_text_string char(50) fme_primary_axis number(31,15) fme_text_size number(31,15) fme_start_angle number(31,15) fbx_type char(50) fme_fill_color char(50) fme_color char(50) fme_geometry char(50) fme_feature_type char(50) fme_dataset char(50) fme_sweep_angle number(31,15) fme_rotation number(31,15) fme_type char(50) fme_secondary_axis number(31,15) fme_basename char(50)"
+#!   EXPOSABLE_ATTRS="fme_dataset char(50) fme_secondary_axis number(31,15) fme_start_angle number(31,15) fme_sweep_angle number(31,15) fme_geometry char(50) fme_fill_color char(50) fme_type char(50) fme_primary_axis number(31,15) fme_color char(50) fme_rotation number(31,15) fme_text_size number(31,15) fbx_type char(50) fme_basename char(50) fme_feature_type char(50) fme_text_string char(50)"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -683,7 +683,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="csv_existing_file_handling Yes csv_write_field_names firstrow"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_text_string string fme_primary_axis string fme_text_size string fme_start_angle string csv_type string fme_fill_color string fme_color string fme_geometry string fme_feature_type string fme_dataset string fme_sweep_angle string fme_rotation string fme_type string fme_secondary_axis string fme_basename string"
+#!   EXPOSABLE_ATTRS="fme_dataset string fme_secondary_axis string fme_start_angle string fme_sweep_angle string fme_geometry string fme_fill_color string fme_type string fme_primary_axis string fme_color string fme_rotation string csv_type string fme_text_size string fme_basename string fme_feature_type string fme_text_string string"
 #!   DEFLINE_PARMS="&quot;GUI OPTIONAL NAMEDGROUP csv_dataset_group csv_existing_file_handling Dataset&quot; &quot;&quot; &quot;GUI CHOICE csv_existing_file_handling Yes%No Overwrite Existing File&quot; Yes &quot;GUI OPTIONAL NAMEDGROUP csv_fields_group csv_write_field_names Fields&quot; &quot;&quot; &quot;GUI LOOKUP_CHOICE csv_write_field_names If&lt;space&gt;Writing&lt;space&gt;First&lt;space&gt;Row,firstrow%Yes,yes%No,no Write Field Names Row&quot; firstrow "
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS="&quot;*{}$"
@@ -742,7 +742,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE=""
 #!   DEFLINE_ATTRS="false"
-#!   EXPOSABLE_ATTRS="fme_text_string char(50) fme_primary_axis number(31,15) fme_text_size number(31,15) fme_start_angle number(31,15) fbx_type char(50) fme_fill_color char(50) fme_color char(50) fme_geometry char(50) fme_feature_type char(50) fme_dataset char(50) fme_sweep_angle number(31,15) fme_rotation number(31,15) fme_type char(50) fme_secondary_axis number(31,15) fme_basename char(50)"
+#!   EXPOSABLE_ATTRS="fme_dataset char(50) fme_secondary_axis number(31,15) fme_start_angle number(31,15) fme_sweep_angle number(31,15) fme_geometry char(50) fme_fill_color char(50) fme_type char(50) fme_primary_axis number(31,15) fme_color char(50) fme_rotation number(31,15) fme_text_size number(31,15) fbx_type char(50) fme_basename char(50) fme_feature_type char(50) fme_text_string char(50)"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -768,7 +768,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="csv_existing_file_handling Yes csv_write_field_names firstrow"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_text_string string fme_primary_axis string fme_text_size string fme_start_angle string csv_type string fme_fill_color string fme_color string fme_geometry string fme_feature_type string fme_dataset string fme_sweep_angle string fme_rotation string fme_type string fme_secondary_axis string fme_basename string"
+#!   EXPOSABLE_ATTRS="fme_dataset string fme_secondary_axis string fme_start_angle string fme_sweep_angle string fme_geometry string fme_fill_color string fme_type string fme_primary_axis string fme_color string fme_rotation string csv_type string fme_text_size string fme_basename string fme_feature_type string fme_text_string string"
 #!   DEFLINE_PARMS="&quot;GUI OPTIONAL NAMEDGROUP csv_dataset_group csv_existing_file_handling Dataset&quot; &quot;&quot; &quot;GUI CHOICE csv_existing_file_handling Yes%No Overwrite Existing File&quot; Yes &quot;GUI OPTIONAL NAMEDGROUP csv_fields_group csv_write_field_names Fields&quot; &quot;&quot; &quot;GUI LOOKUP_CHOICE csv_write_field_names If&lt;space&gt;Writing&lt;space&gt;First&lt;space&gt;Row,firstrow%Yes,yes%No,no Write Field Names Row&quot; firstrow "
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS="&quot;*{}$"
@@ -827,7 +827,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE=""
 #!   DEFLINE_ATTRS="false"
-#!   EXPOSABLE_ATTRS="fme_text_string char(50) fme_primary_axis number(31,15) fme_text_size number(31,15) fme_start_angle number(31,15) fbx_type char(50) fme_fill_color char(50) fme_color char(50) fme_geometry char(50) fme_feature_type char(50) fme_dataset char(50) fme_sweep_angle number(31,15) fme_rotation number(31,15) fme_type char(50) fme_secondary_axis number(31,15) fme_basename char(50)"
+#!   EXPOSABLE_ATTRS="fme_dataset char(50) fme_secondary_axis number(31,15) fme_start_angle number(31,15) fme_sweep_angle number(31,15) fme_geometry char(50) fme_fill_color char(50) fme_type char(50) fme_primary_axis number(31,15) fme_color char(50) fme_rotation number(31,15) fme_text_size number(31,15) fbx_type char(50) fme_basename char(50) fme_feature_type char(50) fme_text_string char(50)"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -853,7 +853,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE=""
 #!   DEFLINE_ATTRS="false"
-#!   EXPOSABLE_ATTRS="fme_text_string char(50) fme_primary_axis number(31,15) fme_text_size number(31,15) fme_start_angle number(31,15) fbx_type char(50) fme_fill_color char(50) fme_color char(50) fme_geometry char(50) fme_feature_type char(50) fme_dataset char(50) fme_sweep_angle number(31,15) fme_rotation number(31,15) fme_type char(50) fme_secondary_axis number(31,15) fme_basename char(50)"
+#!   EXPOSABLE_ATTRS="fme_dataset char(50) fme_secondary_axis number(31,15) fme_start_angle number(31,15) fme_sweep_angle number(31,15) fme_geometry char(50) fme_fill_color char(50) fme_type char(50) fme_primary_axis number(31,15) fme_color char(50) fme_rotation number(31,15) fme_text_size number(31,15) fbx_type char(50) fme_basename char(50) fme_feature_type char(50) fme_text_string char(50)"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -879,7 +879,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="csv_existing_file_handling Yes csv_write_field_names firstrow"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="fme_text_string string fme_primary_axis string fme_text_size string fme_start_angle string csv_type string fme_fill_color string fme_color string fme_geometry string fme_feature_type string fme_dataset string fme_sweep_angle string fme_rotation string fme_type string fme_secondary_axis string fme_basename string"
+#!   EXPOSABLE_ATTRS="fme_dataset string fme_secondary_axis string fme_start_angle string fme_sweep_angle string fme_geometry string fme_fill_color string fme_type string fme_primary_axis string fme_color string fme_rotation string csv_type string fme_text_size string fme_basename string fme_feature_type string fme_text_string string"
 #!   DEFLINE_PARMS="&quot;GUI OPTIONAL NAMEDGROUP csv_dataset_group csv_existing_file_handling Dataset&quot; &quot;&quot; &quot;GUI CHOICE csv_existing_file_handling Yes%No Overwrite Existing File&quot; Yes &quot;GUI OPTIONAL NAMEDGROUP csv_fields_group csv_write_field_names Fields&quot; &quot;&quot; &quot;GUI LOOKUP_CHOICE csv_write_field_names If&lt;space&gt;Writing&lt;space&gt;First&lt;space&gt;Row,firstrow%Yes,yes%No,no Write Field Names Row&quot; firstrow "
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS="&quot;*{}$"
@@ -3917,11 +3917,11 @@
 #! />
 #! <COMMENT
 #!   IDENTIFIER="108"
-#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;FBX Writer Parameters:&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;1. SET OUTPUT FILE LOCATION&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;2. Coordinate System = EPSG:2157&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;3. Move to Local Coordinate System = Yes&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
-#!   POSITION="1773.4258539166576 1419.7471034539403"
-#!   TOP_LEFT="1773.4258539166576 1419.7471034539403"
-#!   BOTTOM_RIGHT="2571.0727192742006 1234.7455534384403"
-#!   BOUNDING_RECT="1773.4258539166576 1419.7471034539403 797.64686535754299 185.00155001550013"
+#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;FBX Writer Parameters:&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;1. SET OUTPUT FILE LOCATION&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;2. Coordinate System = EPSG:2157&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;3. Move to Local Coordinate System = No&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
+#!   POSITION="1935.9274789329074 1417.432265490746"
+#!   TOP_LEFT="1935.9274789329074 1417.432265490746"
+#!   BOTTOM_RIGHT="2733.5743442904504 1232.430715475246"
+#!   BOUNDING_RECT="1935.9274789329074 1417.432265490746 797.64686535754299 185.00155001550013"
 #!   ORDER="500000000000029"
 #!   FOLLOW_ANCHOR="true"
 #!   INFO_NODE="false"
@@ -4082,7 +4082,7 @@
 #! />
 #! <COMMENT
 #!   IDENTIFIER="119"
-#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;FBX Writer Parameters:&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;1. SET OUTPUT FILE LOCATION&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;2. Coordinate System = EPSG:2157&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;3. Move to Local Coordinate System = Yes&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
+#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;FBX Writer Parameters:&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;1. SET OUTPUT FILE LOCATION&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;2. Coordinate System = EPSG:2157&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;3. Move to Local Coordinate System = No&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
 #!   POSITION="970.70915378117957 -1011.5506388577619"
 #!   TOP_LEFT="970.70915378117957 -1011.5506388577619"
 #!   BOTTOM_RIGHT="1768.3560191387226 -1196.5521888732619"
@@ -4247,7 +4247,7 @@
 #! />
 #! <COMMENT
 #!   IDENTIFIER="130"
-#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;FBX Writer Parameters:&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;1. SET OUTPUT FILE LOCATION&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;2. Coordinate System = EPSG:2157&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;3. Move to Local Coordinate System = Yes&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
+#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;FBX Writer Parameters:&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;1. SET OUTPUT FILE LOCATION&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;2. Coordinate System = EPSG:2157&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;3. Move to Local Coordinate System = No&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
 #!   POSITION="2956.0144169193832 -3017.7648676344297"
 #!   TOP_LEFT="2956.0144169193832 -3017.7648676344297"
 #!   BOTTOM_RIGHT="3753.6612822769262 -3202.7664176499297"
@@ -4577,7 +4577,7 @@
 #! />
 #! <COMMENT
 #!   IDENTIFIER="194"
-#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;FBX Writer Parameters:&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;1. SET OUTPUT FILE LOCATION&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;2. Coordinate System = EPSG:2157&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;3. Move to Local Coordinate System = Yes&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
+#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;FBX Writer Parameters:&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;1. SET OUTPUT FILE LOCATION&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;2. Coordinate System = EPSG:2157&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;3. Move to Local Coordinate System = No&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
 #!   POSITION="3016.7340836183075 -5291.8079324329556"
 #!   TOP_LEFT="3016.7340836183075 -5291.8079324329556"
 #!   BOTTOM_RIGHT="3814.3809489758505 -5476.809482448456"
@@ -4602,6 +4602,21 @@
 #!   INFO_NODE="false"
 #!   CUSTOM_USER_COLOR="false"
 #!   COLOUR="0.20000000000000001,0.49803921568627452,0.51764705882352946,0.78431372549019607"
+#!   SIZE_POLICY="10"
+#!   ANCHORED_NODE="0"
+#! />
+#! <COMMENT
+#!   IDENTIFIER="206"
+#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Known Issues:&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;1. Output FBX contains empty nodes with child objects in instances where shapefile polygons are split in to through clipping.&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;2. Markers appear to be stretched to the north and south and stretched to the East.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
+#!   POSITION="1415.0141501415014 -6783.3967692832357"
+#!   TOP_LEFT="1415.0141501415014 -6783.3967692832357"
+#!   BOTTOM_RIGHT="3943.4634138008046 -6923.3978692942355"
+#!   BOUNDING_RECT="1415.0141501415014 -6783.3967692832357 2528.4492636593031 140.00110001100009"
+#!   ORDER="500000000000039"
+#!   FOLLOW_ANCHOR="true"
+#!   INFO_NODE="false"
+#!   CUSTOM_USER_COLOR="false"
+#!   COLOUR="0.20000000000000001,0.36078431372549019,0.51764705882352946,0.78431372549019607"
 #!   SIZE_POLICY="10"
 #!   ANCHORED_NODE="0"
 #! />
@@ -4634,7 +4649,7 @@
 #!   BOUNDING_RECT="-3702.6978003968075 1774.0562021004826 1112.8583508057302 1263.6344312161073"
 #!   STICKY="true"
 #!   COLOUR="0.21568627450980393,0.52549019607843139,0.33333333333333331,1"
-#!   CONTENTS="103 110 5 2 "
+#!   CONTENTS="110 2 5 103 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4662,7 +4677,7 @@
 #!   BOUNDING_RECT="-648.91140364395096 1774.0562021004826 1348.9718230515637 682.87719914236163"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.36078431372549019,0.51764705882352946,1"
-#!   CONTENTS="21 105 20 68 106 "
+#!   CONTENTS="20 106 68 21 105 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4676,7 +4691,7 @@
 #!   BOUNDING_RECT="768.43717155120225 1774.0562021004826 826.39715286041746 1495.2072597649053"
 #!   STICKY="true"
 #!   COLOUR="0.42352941176470588,0.16862745098039217,0.46666666666666667,1"
-#!   CONTENTS="71 107 22 111 23 "
+#!   CONTENTS="22 71 107 23 111 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4690,7 +4705,7 @@
 #!   BOUNDING_RECT="1665.7858886281138 1774.0562021004826 1249.0402681804617 1128.4835070572926"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.49803921568627452,0.51764705882352946,1"
-#!   CONTENTS="109 4 108 18 3 "
+#!   CONTENTS="18 109 3 4 108 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4704,7 +4719,7 @@
 #!   BOUNDING_RECT="-3817.3458657663496 1961.5580771192326 6851.0300487620261 1774.0562021004826"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.36078431372549019,0.51764705882352946,1"
-#!   CONTENTS="71 109 111 69 67 19 108 104 155 22 3 153 4 73 151 20 53 152 21 113 105 54 110 72 23 112 18 68 74 103 24 5 70 154 2 107 157 106 "
+#!   CONTENTS="154 20 104 24 54 18 108 155 72 73 5 21 71 113 109 112 107 74 157 2 53 23 106 152 151 68 3 110 4 67 153 69 70 105 22 111 103 19 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4732,7 +4747,7 @@
 #!   BOUNDING_RECT="-3809.4665134685533 -496.79983979326983 5896.0258406002868 1849.3774681336554"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.36078431372549019,0.51764705882352946,1"
-#!   CONTENTS="25 119 77 29 117 159 162 7 118 80 75 9 79 163 28 115 26 161 114 116 160 60 78 120 8 76 121 27 "
+#!   CONTENTS="118 78 75 161 119 163 26 76 7 115 77 120 80 28 79 162 116 29 121 27 60 8 114 159 160 25 117 9 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4760,7 +4775,7 @@
 #!   BOUNDING_RECT="-2518.6191321183878 -625.00625006250073 831.76999866978804 836.54682700673152"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.36078431372549019,0.51764705882352946,1"
-#!   CONTENTS="25 115 "
+#!   CONTENTS="115 25 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4774,7 +4789,7 @@
 #!   BOUNDING_RECT="-1630.5580192673542 -625.00625006250073 1348.9718230515637 682.87719914236163"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.36078431372549019,0.51764705882352946,1"
-#!   CONTENTS="116 117 77 26 27 "
+#!   CONTENTS="116 117 27 26 77 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4788,7 +4803,7 @@
 #!   BOUNDING_RECT="-206.21650447273737 -625.00625006250073 826.39715286041746 764.43072123028924"
 #!   STICKY="true"
 #!   COLOUR="0.42352941176470588,0.16862745098039217,0.46666666666666667,1"
-#!   CONTENTS="118 28 "
+#!   CONTENTS="28 118 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4802,7 +4817,7 @@
 #!   BOUNDING_RECT="720.97409008277987 -625.00625006250073 1249.0402681804617 1163.4731731932704"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.49803921568627452,0.51764705882352946,1"
-#!   CONTENTS="9 119 121 29 8 "
+#!   CONTENTS="119 121 8 9 29 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4816,7 +4831,7 @@
 #!   BOUNDING_RECT="-3706.1000951889869 -2616.140481020193 1455.8487605808059 1398.3227405350999"
 #!   STICKY="true"
 #!   COLOUR="0.21568627450980393,0.52549019607843139,0.33333333333333331,1"
-#!   CONTENTS="122 10 123 11 "
+#!   CONTENTS="122 123 10 11 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4830,7 +4845,7 @@
 #!   BOUNDING_RECT="-3809.4665134685533 -2448.4475963990394 7785.4678119430764 2133.3289905975994"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.36078431372549019,0.51764705882352946,1"
-#!   CONTENTS="133 124 13 166 34 132 122 126 12 130 169 37 10 35 86 83 89 32 11 36 85 87 164 168 62 30 84 82 131 81 128 31 127 129 61 123 125 88 33 167 170 "
+#!   CONTENTS="166 124 31 85 37 13 10 33 170 128 30 164 11 82 169 81 168 133 129 87 131 125 126 35 127 88 36 89 34 167 83 32 61 12 84 132 122 62 130 123 86 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4858,7 +4873,7 @@
 #!   BOUNDING_RECT="-1201.2673545538878 -2616.140481020193 884.62423085769308 855.04807701923392"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.49803921568627452,0.51764705882352946,1"
-#!   CONTENTS="125 31 "
+#!   CONTENTS="31 125 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4872,7 +4887,7 @@
 #!   BOUNDING_RECT="-237.31540734210898 -2616.140481020193 1348.9718230515637 682.87719914236163"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.36078431372549019,0.51764705882352946,1"
-#!   CONTENTS="83 126 32 33 127 "
+#!   CONTENTS="127 32 33 126 83 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4886,7 +4901,7 @@
 #!   BOUNDING_RECT="1202.8695807052511 -2616.140481020193 1566.3888811101363 1903.1354809701961"
 #!   STICKY="true"
 #!   COLOUR="0.42352941176470588,0.16862745098039217,0.46666666666666667,1"
-#!   CONTENTS="133 88 86 129 37 34 128 35 "
+#!   CONTENTS="86 35 133 129 128 88 37 34 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4900,7 +4915,7 @@
 #!   BOUNDING_RECT="2847.3320254364912 -2616.140481020193 1018.7589859009718 1162.7434616653882"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.49803921568627452,0.51764705882352946,1"
-#!   CONTENTS="12 13 131 36 130 "
+#!   CONTENTS="36 12 130 13 131 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4914,7 +4929,7 @@
 #!   BOUNDING_RECT="-3744.5620182697571 -8096.9645200298137 1432.0388930385038 600.23783660913614"
 #!   STICKY="true"
 #!   COLOUR="0.21568627450980393,0.52549019607843139,0.33333333333333331,1"
-#!   CONTENTS="14 134 "
+#!   CONTENTS="134 14 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4942,7 +4957,7 @@
 #!   BOUNDING_RECT="-2167.327398986039 -4919.6920540633973 884.62423085769308 855.04807701923392"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.49803921568627452,0.51764705882352946,1"
-#!   CONTENTS="39 137 "
+#!   CONTENTS="137 39 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4970,7 +4985,7 @@
 #!   BOUNDING_RECT="-3812.5381253812538 -4730.8165389346213 8235.6592796697187 2302.9076444610582"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.36078431372549019,0.51764705882352946,1"
-#!   CONTENTS="91 65 192 48 40 41 179 205 135 144 142 199 196 182 147 47 51 16 195 184 149 137 146 200 95 97 185 186 64 46 177 99 143 191 183 148 203 181 189 204 197 194 201 52 172 202 145 141 173 198 39 187 178 43 50 190 44 188 136 15 49 96 "
+#!   CONTENTS="64 147 199 52 148 201 190 149 192 191 65 205 51 40 142 202 184 188 44 203 182 194 186 48 172 43 206 179 50 15 197 200 41 183 16 181 145 189 137 49 187 47 204 135 195 173 143 39 178 99 96 146 198 91 141 185 144 95 46 177 136 97 196 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4984,7 +4999,7 @@
 #!   BOUNDING_RECT="-2771.5969144323167 -7274.1112026504879 1282.6208536879872 663.46817314326927"
 #!   STICKY="true"
 #!   COLOUR="0.60784313725490191,0.46274509803921571,0.20784313725490197,1"
-#!   CONTENTS="45 139 140 42 94 "
+#!   CONTENTS="94 42 139 140 45 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -4998,7 +5013,7 @@
 #!   BOUNDING_RECT="-340.15907924646808 -4919.6920540633973 1649.0549520879829 956.27683028966749"
 #!   STICKY="true"
 #!   COLOUR="0.42352941176470588,0.16862745098039217,0.46666666666666667,1"
-#!   CONTENTS="141 91 46 41 142 "
+#!   CONTENTS="46 91 41 142 141 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -5012,7 +5027,7 @@
 #!   BOUNDING_RECT="1380.0138001380033 -4924.9633007929615 1453.8973228560133 754.35173411562937"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.36078431372549019,0.51764705882352946,1"
-#!   CONTENTS="43 143 44 96 144 "
+#!   CONTENTS="43 143 44 144 96 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -5026,7 +5041,7 @@
 #!   BOUNDING_RECT="2924.3467558672969 -4924.9633007929615 1018.7589859009718 1000.0959497995436"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.49803921568627452,0.51764705882352946,1"
-#!   CONTENTS="40 204 194 201 202 "
+#!   CONTENTS="194 202 204 40 201 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -5040,7 +5055,7 @@
 #!   BOUNDING_RECT="-3817.3458657663496 -7120.2635103274097 2413.4856733182714 903.85519239807763"
 #!   STICKY="true"
 #!   COLOUR="0.45882352941176469,0.53725490196078429,0.21176470588235294,1"
-#!   CONTENTS="17 176 45 139 174 140 42 138 94 66 "
+#!   CONTENTS="94 17 42 174 66 138 139 140 176 45 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -5082,7 +5097,7 @@
 #!   BOUNDING_RECT="-340.15907924646802 -5983.0093298821321 1649.0549520879829 956.27683028966749"
 #!   STICKY="true"
 #!   COLOUR="0.42352941176470588,0.16862745098039217,0.46666666666666667,1"
-#!   CONTENTS="146 147 52 49 99 "
+#!   CONTENTS="99 49 147 52 146 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -5096,7 +5111,7 @@
 #!   BOUNDING_RECT="1415.0141501415014 -5983.0093298821321 1418.8969728525149 754.35173411562937"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.36078431372549019,0.51764705882352946,1"
-#!   CONTENTS="149 50 148 190 51 "
+#!   CONTENTS="51 149 190 148 50 "
 #! >
 #! </BOOKMARK>
 #! <BOOKMARK
@@ -5138,7 +5153,7 @@
 #!   BOUNDING_RECT="-1184.4742488938923 -4919.6920540633973 733.44333443334426 742.05792079037383"
 #!   STICKY="true"
 #!   COLOUR="0.20000000000000001,0.36078431372549019,0.51764705882352946,1"
-#!   CONTENTS="192 197 "
+#!   CONTENTS="197 192 "
 #! >
 #! </BOOKMARK>
 #! </BOOKMARKS>
@@ -11823,7 +11838,7 @@ DEFAULT_MACRO DestDataset_FBX_1 $(DestDataset_FBX)
 GUI DIRNAME DestDataset_FBX_1 Destination FBX Folder:
 DEFAULT_MACRO FBX_OUT_FME_GROUP_NAMED1_FBX_1 FME_DISCLOSURE_OPEN
 GUI OPTIONAL DISCLOSUREGROUP FBX_OUT_FME_GROUP_NAMED1_FBX_1 FBX_OUT_MOVE_TO_LOCAL_COORDSYS_FBX_1 Coordinate System
-DEFAULT_MACRO FBX_OUT_MOVE_TO_LOCAL_COORDSYS_FBX_1 Yes
+DEFAULT_MACRO FBX_OUT_MOVE_TO_LOCAL_COORDSYS_FBX_1 No
 FBX_1_MOVE_TO_LOCAL_COORDSYS "$(FBX_OUT_MOVE_TO_LOCAL_COORDSYS_FBX_1)"
 GUI LOOKUP_CHOICE FBX_OUT_MOVE_TO_LOCAL_COORDSYS_FBX_1 Yes,Yes%No,No%"\"Create Projection File Only\",PRJ_ONLY"%"\"Transform Coordinates Only\",COORDINATES_ONLY" Move to Local Coordinate System:
 DEFAULT_MACRO FBX_OUT_WRITER_PARAMS_FBX_1 FME_DISCLOSURE_OPEN
@@ -11933,7 +11948,7 @@ DEFAULT_MACRO DestDataset_FBX_2 $(DestDataset_FBX_5)
 GUI DIRNAME DestDataset_FBX_2 Destination FBX Folder:
 DEFAULT_MACRO FBX_OUT_FME_GROUP_NAMED1_FBX_2 FME_DISCLOSURE_OPEN
 GUI OPTIONAL DISCLOSUREGROUP FBX_OUT_FME_GROUP_NAMED1_FBX_2 FBX_OUT_MOVE_TO_LOCAL_COORDSYS_FBX_2 Coordinate System
-DEFAULT_MACRO FBX_OUT_MOVE_TO_LOCAL_COORDSYS_FBX_2 Yes
+DEFAULT_MACRO FBX_OUT_MOVE_TO_LOCAL_COORDSYS_FBX_2 No
 FBX_2_MOVE_TO_LOCAL_COORDSYS "$(FBX_OUT_MOVE_TO_LOCAL_COORDSYS_FBX_2)"
 GUI LOOKUP_CHOICE FBX_OUT_MOVE_TO_LOCAL_COORDSYS_FBX_2 Yes,Yes%No,No%"\"Create Projection File Only\",PRJ_ONLY"%"\"Transform Coordinates Only\",COORDINATES_ONLY" Move to Local Coordinate System:
 DEFAULT_MACRO FBX_OUT_WRITER_PARAMS_FBX_2 
@@ -12043,7 +12058,7 @@ DEFAULT_MACRO DestDataset_FBX_3 $(DestDataset_FBX_7)
 GUI DIRNAME DestDataset_FBX_3 Destination FBX Folder:
 DEFAULT_MACRO FBX_OUT_FME_GROUP_NAMED1_FBX_3 FME_DISCLOSURE_OPEN
 GUI OPTIONAL DISCLOSUREGROUP FBX_OUT_FME_GROUP_NAMED1_FBX_3 FBX_OUT_MOVE_TO_LOCAL_COORDSYS_FBX_3 Coordinate System
-DEFAULT_MACRO FBX_OUT_MOVE_TO_LOCAL_COORDSYS_FBX_3 Yes
+DEFAULT_MACRO FBX_OUT_MOVE_TO_LOCAL_COORDSYS_FBX_3 No
 FBX_3_MOVE_TO_LOCAL_COORDSYS "$(FBX_OUT_MOVE_TO_LOCAL_COORDSYS_FBX_3)"
 GUI LOOKUP_CHOICE FBX_OUT_MOVE_TO_LOCAL_COORDSYS_FBX_3 Yes,Yes%No,No%"\"Create Projection File Only\",PRJ_ONLY"%"\"Transform Coordinates Only\",COORDINATES_ONLY" Move to Local Coordinate System:
 DEFAULT_MACRO FBX_OUT_WRITER_PARAMS_FBX_3 
@@ -12080,9 +12095,9 @@ INCLUDE [ if {"$(DestDataset)" != ""} {                          \
 #! START_DEST_HEADER FBX FBX_4
 DEFAULT_MACRO DestDataset_FBX_4 $(DestDataset_FBX_6)
 GUI DIRNAME DestDataset_FBX_4 Destination FBX Folder:
-DEFAULT_MACRO FBX_OUT_FME_GROUP_NAMED1_FBX_4 FME_DISCLOSURE_OPEN
+DEFAULT_MACRO FBX_OUT_FME_GROUP_NAMED1_FBX_4 FME_DISCLOSURE_CLOSED
 GUI OPTIONAL DISCLOSUREGROUP FBX_OUT_FME_GROUP_NAMED1_FBX_4 FBX_OUT_MOVE_TO_LOCAL_COORDSYS_FBX_4 Coordinate System
-DEFAULT_MACRO FBX_OUT_MOVE_TO_LOCAL_COORDSYS_FBX_4 Yes
+DEFAULT_MACRO FBX_OUT_MOVE_TO_LOCAL_COORDSYS_FBX_4 No
 FBX_4_MOVE_TO_LOCAL_COORDSYS "$(FBX_OUT_MOVE_TO_LOCAL_COORDSYS_FBX_4)"
 GUI LOOKUP_CHOICE FBX_OUT_MOVE_TO_LOCAL_COORDSYS_FBX_4 Yes,Yes%No,No%"\"Create Projection File Only\",PRJ_ONLY"%"\"Transform Coordinates Only\",COORDINATES_ONLY" Move to Local Coordinate System:
 DEFAULT_MACRO FBX_OUT_WRITER_PARAMS_FBX_4 
@@ -12289,16 +12304,16 @@ ESRISHAPE_6_MERGE_DEF ESRISHAPE_6::National_Monuments EXACT National_Monuments
 OBJ_1_MERGE_DEF OBJ_1::marker_blue EXACT marker_blue
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME "NIAH_Sites (ESRISHAPE_5) Splitter"    INPUT FEATURE_TYPE NIAH_Sites    OUTPUT FEATURE_TYPE NIAH_Sites_ESRISHAPE_5
-# -------------------------------------------------------------------------
-
-FACTORY_DEF * TeeFactory    FACTORY_NAME "dccdevelopmentplanp20141002-1159 (ESRISHAPE_1) Splitter"    INPUT FEATURE_TYPE dccdevelopmentplanp20141002-1159    OUTPUT FEATURE_TYPE dccdevelopmentplanp20141002-1159_ESRISHAPE_1
+FACTORY_DEF * TeeFactory    FACTORY_NAME "Small_Areas__Generalised_20m__OSi_National_Boundaries (ESRISHAPE_4) Splitter"    INPUT FEATURE_TYPE Small_Areas__Generalised_20m__OSi_National_Boundaries    OUTPUT FEATURE_TYPE Small_Areas__Generalised_20m__OSi_National_Boundaries_ESRISHAPE_4
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * TeeFactory    FACTORY_NAME "BCD_Boundary (ESRISHAPE_2) Splitter"    INPUT FEATURE_TYPE BCD_Boundary    OUTPUT FEATURE_TYPE BCD_Boundary_ESRISHAPE_2_0_ixc8e5Gfw0I=    OUTPUT FEATURE_TYPE BCD_Boundary_ESRISHAPE_2_1_zNIapVKiA5U=    OUTPUT FEATURE_TYPE BCD_Boundary_ESRISHAPE_2_2_A0hLar8KAek=    OUTPUT FEATURE_TYPE BCD_Boundary_ESRISHAPE_2_3_pQWVC21Be14=    OUTPUT FEATURE_TYPE BCD_Boundary_ESRISHAPE_2_4_xybwpZ2BSAk=
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME "CSV (CSV2_3) Splitter"    INPUT FEATURE_TYPE CSV      multi_reader_keyword $(DATASET_KEYWORD_CSV2_3)    OUTPUT FEATURE_TYPE CSV_CSV2_3
+FACTORY_DEF * TeeFactory    FACTORY_NAME "dccdevelopmentplanp20141002-1159 (ESRISHAPE_1) Splitter"    INPUT FEATURE_TYPE dccdevelopmentplanp20141002-1159    OUTPUT FEATURE_TYPE dccdevelopmentplanp20141002-1159_ESRISHAPE_1
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * TeeFactory    FACTORY_NAME "DCC_PlanAppsREPROJECTED (ESRISHAPE_3) Splitter"    INPUT FEATURE_TYPE DCC_PlanAppsREPROJECTED    OUTPUT FEATURE_TYPE DCC_PlanAppsREPROJECTED_ESRISHAPE_3
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * TeeFactory    FACTORY_NAME "marker_blue (OBJ_1) Splitter"    INPUT FEATURE_TYPE marker_blue    OUTPUT FEATURE_TYPE marker_blue_OBJ_1
@@ -12307,16 +12322,16 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME "marker_blue (OBJ_1) Splitter"    INPUT
 FACTORY_DEF * TeeFactory    FACTORY_NAME "CSV (CSV2_2) Splitter"    INPUT FEATURE_TYPE CSV      multi_reader_keyword $(DATASET_KEYWORD_CSV2_2)    OUTPUT FEATURE_TYPE CSV_CSV2_2
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME "DCC_PlanAppsREPROJECTED (ESRISHAPE_3) Splitter"    INPUT FEATURE_TYPE DCC_PlanAppsREPROJECTED    OUTPUT FEATURE_TYPE DCC_PlanAppsREPROJECTED_ESRISHAPE_3
+FACTORY_DEF * TeeFactory    FACTORY_NAME "CSV (CSV2_1) Splitter"    INPUT FEATURE_TYPE CSV      multi_reader_keyword $(DATASET_KEYWORD_CSV2_1)    OUTPUT FEATURE_TYPE CSV_CSV2_1
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME "CSV (CSV2_1) Splitter"    INPUT FEATURE_TYPE CSV      multi_reader_keyword $(DATASET_KEYWORD_CSV2_1)    OUTPUT FEATURE_TYPE CSV_CSV2_1
+FACTORY_DEF * TeeFactory    FACTORY_NAME "NIAH_Sites (ESRISHAPE_5) Splitter"    INPUT FEATURE_TYPE NIAH_Sites    OUTPUT FEATURE_TYPE NIAH_Sites_ESRISHAPE_5
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * TeeFactory    FACTORY_NAME "National_Monuments (ESRISHAPE_6) Splitter"    INPUT FEATURE_TYPE National_Monuments    OUTPUT FEATURE_TYPE National_Monuments_ESRISHAPE_6
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME "Small_Areas__Generalised_20m__OSi_National_Boundaries (ESRISHAPE_4) Splitter"    INPUT FEATURE_TYPE Small_Areas__Generalised_20m__OSi_National_Boundaries    OUTPUT FEATURE_TYPE Small_Areas__Generalised_20m__OSi_National_Boundaries_ESRISHAPE_4
+FACTORY_DEF * TeeFactory    FACTORY_NAME "CSV (CSV2_3) Splitter"    INPUT FEATURE_TYPE CSV      multi_reader_keyword $(DATASET_KEYWORD_CSV2_3)    OUTPUT FEATURE_TYPE CSV_CSV2_3
 DEFAULT_MACRO WB_CURRENT_CONTEXT
 # -------------------------------------------------------------------------
 INCLUDE [    if { "X" == "X" } {       puts "MACRO XORIG_REAL 0";       puts "MACRO YORIG_REAL 0";       puts "MACRO ZORIG_REAL 0";       puts "MACRO XDIR_REAL 1";       puts "MACRO YDIR_REAL 0";       puts "MACRO ZDIR_REAL 0";    } elseif { "X" == "Y" } {       puts "MACRO XORIG_REAL 0";       puts "MACRO YORIG_REAL 0";       puts "MACRO ZORIG_REAL 0";       puts "MACRO XDIR_REAL 0";       puts "MACRO YDIR_REAL 1";       puts "MACRO ZDIR_REAL 0";    } elseif { "X" == "Z" } {       puts "MACRO XORIG_REAL 0";       puts "MACRO YORIG_REAL 0";       puts "MACRO ZORIG_REAL 0";       puts "MACRO XDIR_REAL 0";       puts "MACRO YDIR_REAL 0";       puts "MACRO ZDIR_REAL 1";    } else {    } ]
@@ -12387,7 +12402,7 @@ FACTORY_DEF {*} ReferenceFactory    FACTORY_NAME FeatureMerger_2    FLUSH_WHEN_G
 DEFAULT_MACRO _WB_BYPASS_TERMINATION No
 FACTORY_DEF * TeeFactory FACTORY_NAME FeatureMerger_2_<Rejected> INPUT FEATURE_TYPE FeatureMerger_2_<REJECTED>  OUTPUT FAILED FEATURE_TYPE * @Abort(ENCODED, FeatureMerger_2<space>output<space>a<space><lt>Rejected<gt><space>feature.<space><space>To<space>continue<space>translation<space>when<space>features<space>are<space>rejected<comma><space>change<space><apos>Workspace<space>Parameters<apos><space><gt><space>Translation<space><gt><space><apos>Rejected<space>Feature<space>Handling<apos><space>to<space><apos>Continue<space>Translation<apos>)
 # -------------------------------------------------------------------------
-Tcl2 proc GeometryPropertySetter_5_cf273734_ac7d_43a1_b55a_1bb6c65cfa960_createDomain { in_domainName } {    set domainName $in_domainName;    if { {<Unused>} != {Global} }    {       set xFormName [FME_EncodeText {GeometryPropertySetter_5_}];       set domainName $xFormName$domainName;    };    return $domainName; }
+Tcl2 proc GeometryPropertySetter_5_8ebb21d4_f7fa_416b_8d37_7a93ba1dcdc00_createDomain { in_domainName } {    set domainName $in_domainName;    if { {<Unused>} != {Global} }    {       set xFormName [FME_EncodeText {GeometryPropertySetter_5_}];       set domainName $xFormName$domainName;    };    return $domainName; }
 INCLUDE [    set macroLine "MACRO GeometryPropertySetter_5_SRC_ATTRS_EXP ";    puts $macroLine; ]
 FACTORY_DEF * TestFactory    FACTORY_NAME GeometryPropertySetter_5_Tester    INPUT  FEATURE_TYPE FeatureMerger_2_MERGED    TEST "<Unused>" TYPE NUM ENCODED    TEST NO != YES    BOOLEAN_OPERATOR OR    OUTPUT FAILED FEATURE_TYPE GeometryPropertySetter_5_<REJECTED>       fme_rejection_code "INVALID_PARAMETER_COUNT_START"    OUTPUT PASSED FEATURE_TYPE GeometryPropertySetter_5__toGQuery__
 FACTORY_DEF {*} GQueryFactory    FACTORY_NAME GeometryPropertySetter_5_GQuery    INPUT FEATURE_TYPE GeometryPropertySetter_5__toGQuery__    ACTION SET_GEOMNAME    PARAMETER yes "@EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>REG_NO<closeparen>,GeometryPropertySetter_5)"    OUTPUT RESULT FEATURE_TYPE GeometryPropertySetter_5___RemoveAttrs___
@@ -12455,7 +12470,7 @@ FACTORY_DEF {*} ReferenceFactory    FACTORY_NAME FeatureMerger    FLUSH_WHEN_GRO
 DEFAULT_MACRO _WB_BYPASS_TERMINATION No
 FACTORY_DEF * TeeFactory FACTORY_NAME FeatureMerger_<Rejected> INPUT FEATURE_TYPE FeatureMerger_<REJECTED>  OUTPUT FAILED FEATURE_TYPE * @Abort(ENCODED, FeatureMerger<space>output<space>a<space><lt>Rejected<gt><space>feature.<space><space>To<space>continue<space>translation<space>when<space>features<space>are<space>rejected<comma><space>change<space><apos>Workspace<space>Parameters<apos><space><gt><space>Translation<space><gt><space><apos>Rejected<space>Feature<space>Handling<apos><space>to<space><apos>Continue<space>Translation<apos>)
 # -------------------------------------------------------------------------
-Tcl2 proc GeometryPropertySetter_4_adae6547_10d0_4e56_adb8_78a3ef443c7f0_createDomain { in_domainName } {    set domainName $in_domainName;    if { {<Unused>} != {Global} }    {       set xFormName [FME_EncodeText {GeometryPropertySetter_4_}];       set domainName $xFormName$domainName;    };    return $domainName; }
+Tcl2 proc GeometryPropertySetter_4_8702c4ef_8f08_4902_ac7b_6a8e60fc84da1_createDomain { in_domainName } {    set domainName $in_domainName;    if { {<Unused>} != {Global} }    {       set xFormName [FME_EncodeText {GeometryPropertySetter_4_}];       set domainName $xFormName$domainName;    };    return $domainName; }
 INCLUDE [    set macroLine "MACRO GeometryPropertySetter_4_SRC_ATTRS_EXP ";    puts $macroLine; ]
 FACTORY_DEF * TestFactory    FACTORY_NAME GeometryPropertySetter_4_Tester    INPUT  FEATURE_TYPE FeatureMerger_MERGED    TEST "<Unused>" TYPE NUM ENCODED    TEST NO != YES    BOOLEAN_OPERATOR OR    OUTPUT FAILED FEATURE_TYPE GeometryPropertySetter_4_<REJECTED>       fme_rejection_code "INVALID_PARAMETER_COUNT_START"    OUTPUT PASSED FEATURE_TYPE GeometryPropertySetter_4__toGQuery__
 FACTORY_DEF {*} GQueryFactory    FACTORY_NAME GeometryPropertySetter_4_GQuery    INPUT FEATURE_TYPE GeometryPropertySetter_4__toGQuery__    ACTION SET_GEOMNAME    PARAMETER yes "@EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>ENTITY_ID<closeparen>,GeometryPropertySetter_4)"    OUTPUT RESULT FEATURE_TYPE GeometryPropertySetter_4___RemoveAttrs___
@@ -12519,7 +12534,7 @@ FACTORY_DEF * TestFactory    FACTORY_NAME Extruder_3_Rejector    INPUT FEATURE_T
 DEFAULT_MACRO _WB_BYPASS_TERMINATION No
 FACTORY_DEF * TeeFactory FACTORY_NAME Extruder_3_<Rejected> INPUT FEATURE_TYPE Extruder_3_<REJECTED>  OUTPUT FAILED FEATURE_TYPE * @Abort(ENCODED, Extruder_3<space>output<space>a<space><lt>Rejected<gt><space>feature.<space><space>To<space>continue<space>translation<space>when<space>features<space>are<space>rejected<comma><space>change<space><apos>Workspace<space>Parameters<apos><space><gt><space>Translation<space><gt><space><apos>Rejected<space>Feature<space>Handling<apos><space>to<space><apos>Continue<space>Translation<apos>)
 # -------------------------------------------------------------------------
-Tcl2 proc GeometryPropertySetter_3_2c323f3e_2a23_44f7_84e6_c4f30f7b71290_createDomain { in_domainName } {    set domainName $in_domainName;    if { {<Unused>} != {Global} }    {       set xFormName [FME_EncodeText {GeometryPropertySetter_3_}];       set domainName $xFormName$domainName;    };    return $domainName; }
+Tcl2 proc GeometryPropertySetter_3_8c7b217b_c159_4edb_9ca6_825d3ea401811_createDomain { in_domainName } {    set domainName $in_domainName;    if { {<Unused>} != {Global} }    {       set xFormName [FME_EncodeText {GeometryPropertySetter_3_}];       set domainName $xFormName$domainName;    };    return $domainName; }
 INCLUDE [    set macroLine "MACRO GeometryPropertySetter_3_SRC_ATTRS_EXP ";    puts $macroLine; ]
 FACTORY_DEF * TestFactory    FACTORY_NAME GeometryPropertySetter_3_Tester    INPUT  FEATURE_TYPE Extruder_3_EXTRUDED    TEST "<Unused>" TYPE NUM ENCODED    TEST NO != YES    BOOLEAN_OPERATOR OR    OUTPUT FAILED FEATURE_TYPE GeometryPropertySetter_3_<REJECTED>       fme_rejection_code "INVALID_PARAMETER_COUNT_START"    OUTPUT PASSED FEATURE_TYPE GeometryPropertySetter_3__toGQuery__
 FACTORY_DEF {*} GQueryFactory    FACTORY_NAME GeometryPropertySetter_3_GQuery    INPUT FEATURE_TYPE GeometryPropertySetter_3__toGQuery__    ACTION SET_GEOMNAME    PARAMETER yes "@EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>GEOGID<closeparen>,GeometryPropertySetter_3)"    OUTPUT RESULT FEATURE_TYPE GeometryPropertySetter_3___RemoveAttrs___
@@ -12576,7 +12591,7 @@ FACTORY_DEF * TestFactory    FACTORY_NAME Extruder_2_Rejector    INPUT FEATURE_T
 DEFAULT_MACRO _WB_BYPASS_TERMINATION No
 FACTORY_DEF * TeeFactory FACTORY_NAME Extruder_2_<Rejected> INPUT FEATURE_TYPE Extruder_2_<REJECTED>  OUTPUT FAILED FEATURE_TYPE * @Abort(ENCODED, Extruder_2<space>output<space>a<space><lt>Rejected<gt><space>feature.<space><space>To<space>continue<space>translation<space>when<space>features<space>are<space>rejected<comma><space>change<space><apos>Workspace<space>Parameters<apos><space><gt><space>Translation<space><gt><space><apos>Rejected<space>Feature<space>Handling<apos><space>to<space><apos>Continue<space>Translation<apos>)
 # -------------------------------------------------------------------------
-Tcl2 proc GeometryPropertySetter_2_ea90f440_dfd9_4dbc_ba4e_7ace8969b3630_createDomain { in_domainName } {    set domainName $in_domainName;    if { {<Unused>} != {Global} }    {       set xFormName [FME_EncodeText {GeometryPropertySetter_2_}];       set domainName $xFormName$domainName;    };    return $domainName; }
+Tcl2 proc GeometryPropertySetter_2_5af704cf_69d0_45af_9675_8e55287b92291_createDomain { in_domainName } {    set domainName $in_domainName;    if { {<Unused>} != {Global} }    {       set xFormName [FME_EncodeText {GeometryPropertySetter_2_}];       set domainName $xFormName$domainName;    };    return $domainName; }
 INCLUDE [    set macroLine "MACRO GeometryPropertySetter_2_SRC_ATTRS_EXP ";    puts $macroLine; ]
 FACTORY_DEF * TestFactory    FACTORY_NAME GeometryPropertySetter_2_Tester    INPUT  FEATURE_TYPE Extruder_2_EXTRUDED    TEST "<Unused>" TYPE NUM ENCODED    TEST NO != YES    BOOLEAN_OPERATOR OR    OUTPUT FAILED FEATURE_TYPE GeometryPropertySetter_2_<REJECTED>       fme_rejection_code "INVALID_PARAMETER_COUNT_START"    OUTPUT PASSED FEATURE_TYPE GeometryPropertySetter_2__toGQuery__
 FACTORY_DEF {*} GQueryFactory    FACTORY_NAME GeometryPropertySetter_2_GQuery    INPUT FEATURE_TYPE GeometryPropertySetter_2__toGQuery__    ACTION SET_GEOMNAME    PARAMETER yes "@EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>PLAN_REF<closeparen>,GeometryPropertySetter_2)"    OUTPUT RESULT FEATURE_TYPE GeometryPropertySetter_2___RemoveAttrs___
@@ -12632,7 +12647,7 @@ FACTORY_DEF * TestFactory    FACTORY_NAME Extruder_Rejector    INPUT FEATURE_TYP
 DEFAULT_MACRO _WB_BYPASS_TERMINATION No
 FACTORY_DEF * TeeFactory FACTORY_NAME Extruder_<Rejected> INPUT FEATURE_TYPE Extruder_<REJECTED>  OUTPUT FAILED FEATURE_TYPE * @Abort(ENCODED, Extruder<space>output<space>a<space><lt>Rejected<gt><space>feature.<space><space>To<space>continue<space>translation<space>when<space>features<space>are<space>rejected<comma><space>change<space><apos>Workspace<space>Parameters<apos><space><gt><space>Translation<space><gt><space><apos>Rejected<space>Feature<space>Handling<apos><space>to<space><apos>Continue<space>Translation<apos>)
 # -------------------------------------------------------------------------
-Tcl2 proc GeometryPropertySetter_d791dc15_23f9_4dbc_8a1d_7572f70ae7110_createDomain { in_domainName } {    set domainName $in_domainName;    if { {<Unused>} != {Global} }    {       set xFormName [FME_EncodeText {GeometryPropertySetter_}];       set domainName $xFormName$domainName;    };    return $domainName; }
+Tcl2 proc GeometryPropertySetter_c6f604d2_40fb_498d_b78f_ece1bfffd83a1_createDomain { in_domainName } {    set domainName $in_domainName;    if { {<Unused>} != {Global} }    {       set xFormName [FME_EncodeText {GeometryPropertySetter_}];       set domainName $xFormName$domainName;    };    return $domainName; }
 INCLUDE [    set macroLine "MACRO GeometryPropertySetter_SRC_ATTRS_EXP ";    puts $macroLine; ]
 FACTORY_DEF * TestFactory    FACTORY_NAME GeometryPropertySetter_Tester    INPUT  FEATURE_TYPE Extruder_EXTRUDED    TEST "<Unused>" TYPE NUM ENCODED    TEST NO != YES    BOOLEAN_OPERATOR OR    OUTPUT FAILED FEATURE_TYPE GeometryPropertySetter_<REJECTED>       fme_rejection_code "INVALID_PARAMETER_COUNT_START"    OUTPUT PASSED FEATURE_TYPE GeometryPropertySetter__toGQuery__
 FACTORY_DEF {*} GQueryFactory    FACTORY_NAME GeometryPropertySetter_GQuery    INPUT FEATURE_TYPE GeometryPropertySetter__toGQuery__    ACTION SET_GEOMNAME    PARAMETER yes "@EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>OBJECTID<closeparen>,GeometryPropertySetter)"    OUTPUT RESULT FEATURE_TYPE GeometryPropertySetter___RemoveAttrs___
@@ -12660,7 +12675,7 @@ DEFAULT_MACRO VISUALIZER_CREATE_SPATIAL_INDEX NO
 FACTORY_DEF * RecorderFactory    FACTORY_NAME Inspector_Recorder    COMMAND_PARM_EVALUATION SINGLE_PASS    INPUT FEATURE_TYPE __viewme__       _wb_termination_feature Yes       @FeatureType(TERMINATOR_@Value(_wb_termination_xformer))    INPUT FEATURE_TYPE __viewme__       @FeatureType(@Value(__inspector_feature_type_attr__))       @RemoveAttributes(__inspector_feature_type_attr__)    FEATURE_FILE "$(VISUALIZER_FEATURE_FILE)"    STORE_SCANNED_SCHEMA YES    CREATE_SPATIAL_INDEX "$(VISUALIZER_CREATE_SPATIAL_INDEX)"    INSPECTOR "$(VISUALIZER_CREATE_SPATIAL_INDEX)"    FSC_SCHEMA OBJECTID,varchar<openparen>255<closeparen>,ZONE_ORIG,varchar<openparen>255<closeparen>,ZONE_GZT,varchar<openparen>255<closeparen>,ZONE_DESC,varchar<openparen>255<closeparen>,ZONE_LINK,varchar<openparen>255<closeparen>,COLOUR,varchar<openparen>255<closeparen>,_clipped,varchar<openparen>255<closeparen>    MODE RECORD    STORE_SCANNED_METADATA    RECORD_DIRECTLY_TO_DISK YES    MAX_FEATURES_TO_RECORD WIN32 2000000
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * RoutingFactory FACTORY_NAME "Destination Feature Type Routing Correlator"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *    ROUTE FME_GENERIC GeometryPropertySetter_3_SET_0_4ySNo5KHjeA= TO FBX __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,4,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>SAPS<closeparen> COORDINATE_SYSTEM EPSG:2157 GEOMETRY    ROUTE FME_GENERIC Reprojector_3_REPROJECTED_1_OcRep4wH5oA= TO FBX __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,5,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>National_Monuments<closeparen> COORDINATE_SYSTEM EPSG:2157 GEOMETRY    ROUTE FME_GENERIC FeatureJoiner_JOINED TO CSV2 __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,1,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>DEVPlan<closeparen> GEOMETRY    ROUTE FME_GENERIC GeometryPropertySetter_2_SET_2_qAPRvTw9Gj4= TO CSV2 __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,3,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>DCC_PlanApps<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeManager_OUTPUT TO CSV2 __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,3,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>SAPS<closeparen> GEOMETRY    ROUTE FME_GENERIC Reprojector_3_REPROJECTED_2_Y+5MHYNevuk= TO CSV2 __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,6,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>National_Monuments<closeparen> GEOMETRY    ROUTE FME_GENERIC GeometryPropertySetter_2_SET_0_q/8XoCOPKqI= TO FBX __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,2,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>DCC_PlanApps<closeparen> COORDINATE_SYSTEM EPSG:2157 GEOMETRY    ROUTE FME_GENERIC GeometryPropertySetter_SET_2_DLA+axw+a2s= TO FBX __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>DevPlan<closeparen> COORDINATE_SYSTEM EPSG:2157 GEOMETRY   FEATURE_TYPE_ATTRIBUTE __wb_out_feat_type__   OUTPUT ROUTED FEATURE_TYPE *    OUTPUT NOT_ROUTED FEATURE_TYPE __nuke_me__ @Tcl2("FME_StatMessage 818059 [FME_GetAttribute fme_template_feature_type] 818060 818061 fme_warn")
+FACTORY_DEF * RoutingFactory FACTORY_NAME "Destination Feature Type Routing Correlator"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *    ROUTE FME_GENERIC Reprojector_3_REPROJECTED_2_Y+5MHYNevuk= TO CSV2 __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,6,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>National_Monuments<closeparen> GEOMETRY    ROUTE FME_GENERIC GeometryPropertySetter_2_SET_0_q/8XoCOPKqI= TO FBX __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,2,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>DCC_PlanApps<closeparen> COORDINATE_SYSTEM EPSG:2157 GEOMETRY    ROUTE FME_GENERIC GeometryPropertySetter_SET_2_DLA+axw+a2s= TO FBX __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,0,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>DevPlan<closeparen> COORDINATE_SYSTEM EPSG:2157 GEOMETRY    ROUTE FME_GENERIC Reprojector_3_REPROJECTED_1_OcRep4wH5oA= TO FBX __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,5,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>National_Monuments<closeparen> COORDINATE_SYSTEM EPSG:2157 GEOMETRY    ROUTE FME_GENERIC GeometryPropertySetter_3_SET_0_4ySNo5KHjeA= TO FBX __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,4,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>SAPS<closeparen> COORDINATE_SYSTEM EPSG:2157 GEOMETRY    ROUTE FME_GENERIC FeatureJoiner_JOINED TO CSV2 __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,1,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>DEVPlan<closeparen> GEOMETRY    ROUTE FME_GENERIC GeometryPropertySetter_2_SET_2_qAPRvTw9Gj4= TO CSV2 __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,3,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>DCC_PlanApps<closeparen> GEOMETRY    ROUTE FME_GENERIC AttributeManager_OUTPUT TO CSV2 __GO_TO_FINAL_OUTPUT_ROUTER__ multi_writer_id,3,<at>SupplyAttributes<openparen>ENCODED<comma>__wb_out_feat_type__<comma>SAPS<closeparen> GEOMETRY   FEATURE_TYPE_ATTRIBUTE __wb_out_feat_type__   OUTPUT ROUTED FEATURE_TYPE *    OUTPUT NOT_ROUTED FEATURE_TYPE __nuke_me__ @Tcl2("FME_StatMessage 818059 [FME_GetAttribute fme_template_feature_type] 818060 818061 fme_warn")
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * TeeFactory   FACTORY_NAME "Final Output Nuker"   INPUT FEATURE_TYPE __nuke_me__
@@ -12677,9 +12692,9 @@ CSV2_4_DEF DEVPlan   csv_existing_file_handling   Yes   csv_write_field_names   
 # -------------------------------------------------------------------------
 FBX_2_DEF DCC_PlanApps
 # -------------------------------------------------------------------------
-CSV2_5_DEF SAPS   csv_existing_file_handling   Yes   csv_write_field_names        firstrow   GUID                         string   NUTS1                        string   NUTS1NAME                    string   NUTS2                        string   NUTS2NAME                    string   NUTS3                        string   NUTS3NAME                    string   COUNTY                       string   COUNTYNAME                   string   CSOED                        string   OSIED                        string   EDNAME                       string   SA_PUB2011                   string   SMALL_AREA                   string   GEOGID                       string   GEOGDESC                     string   Total_Population             string
-# -------------------------------------------------------------------------
 CSV2_5_DEF DCC_PlanApps   csv_existing_file_handling   Yes   csv_write_field_names        firstrow   PLAN_REF                     string   FGDATE                       string   PROPOSAL                     string   APPDATE                      string   LOCATION                     string   STAGE                        string   DECDATE                      string   REGDATE                      string   APPTYPE                      string   DECISION                     string
+# -------------------------------------------------------------------------
+CSV2_5_DEF SAPS   csv_existing_file_handling   Yes   csv_write_field_names        firstrow   GUID                         string   NUTS1                        string   NUTS1NAME                    string   NUTS2                        string   NUTS2NAME                    string   NUTS3                        string   NUTS3NAME                    string   COUNTY                       string   COUNTYNAME                   string   CSOED                        string   OSIED                        string   EDNAME                       string   SA_PUB2011                   string   SMALL_AREA                   string   GEOGID                       string   GEOGDESC                     string   Total_Population             string
 # -------------------------------------------------------------------------
 FBX_3_DEF SAPS
 # -------------------------------------------------------------------------
