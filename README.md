@@ -4,5 +4,7 @@ This repository includes FME workspaces for automating the preparation and proce
 
 ![BCD_3D_Planning_Open_Data_Layer_Workspace](images/BCD_3D_Planning_Open_Data_Layer_Workspace.PNG)
 
+![Geolocate3DModel](images/Geolocate3DModel.PNG)
+
 ## Acknowledgements
 On behalf of the Building City Dashboards project we gratefully acknowledge funding from **Science Foundation Ireland** under the Investigator’s Award Program. **Award number: 15/IA/3090**
