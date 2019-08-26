@@ -2,10 +2,13 @@
 
 This repository includes FME workspaces for automating the preparation and processing of open data on planning information and Small Area Population Statistics in Dublin for use in the Building City Dashboards 3D Planning Tool.
 
+## BCD 3D Model Layers
 ![BCD_3D_Planning_Open_Data_Layer_Workspace](images/BCD_3D_Planning_Open_Data_Layer_Workspace.PNG)
 
+## Geolocate 3D Model
 ![Geolocate3DModel](images/Geolocate3DModel.PNG)
 
+## Set Model Origin By Geolocation 
 ![SetModelOriginByGeolocation](images/SetModelOriginByGeolocation.PNG)
 
 ## Acknowledgements
